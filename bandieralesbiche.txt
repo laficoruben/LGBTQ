@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Bandiera Lesbiche</title>
+</head>
+<body>
+<center><h1><font color="red">Bandiera Lesbiche</center></h1></font>
+<br><br><br>
+<h1>Le persone lesbiche sono donne che provano attrazione romantica e/o sessuale per altre donne. Questa identità sessuale è 
+una parte importante della loro vita e della loro esperienza personale. Le lesbiche possono affrontare varie sfide sociali e 
+legali, ma molte comunità offrono supporto e risorse. La visibilità e l'accettazione delle persone lesbiche sono aumentate nel 
+tempo grazie ai movimenti per i diritti LGBTQ+. La loro storia e cultura sono ricche e variegate, contribuendo in modo 
+significativo alla società.
+La bandiera delle lesbiche è un simbolo di orgoglio e identità per le donne lesbiche, composta da tre strisce di diversi
+ colori: rosso, viola e arancione. Il rosso rappresenta l'amore e la passione tra le donne, il viola simboleggia la diversità 
+e l'unicità delle lesbiche, mentre l'arancione rappresenta la salute e la vitalità. Questa bandiera serve a mostrare solidarietà, 
+visibilità e orgoglio nella comunità lesbica e LGBTQ+.</h1>
+<img src="bandieralesbiche.png">
+<br><br><br>
+<a href="lgbt.html">HOME
+</body>
+</html>
